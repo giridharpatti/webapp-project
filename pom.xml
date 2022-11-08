@@ -6,7 +6,7 @@
 
   <groupId>site.devopslearning</groupId>
   <artifactId>mywebapp</artifactId>
-  <version>SNAPSHOT-1.0</version>
+  <version>SNAPSHOT-2.0</version>
   <packaging>war</packaging>
 
   <name>mywebapp Maven Webapp</name>
