@@ -4,6 +4,6 @@
    </head>
    <body>
       <h1>Products</h1>
-      <p style="color:blue">This is demo content.</p>
+      <p style="color:red">This is my webapp project</p>
    </body>
 </html>
