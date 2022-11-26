@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
    <head>
       <title>HTML Font color</title>
